@@ -114,10 +114,10 @@ updated.ipynb
 ## After training all models, the notebook prints the RMSE (Root Mean Square Error) for each:
 
 --Model	Description	RMSE (Example)
-  >ARIMA	Traditional statistical model	~XXX.XX
-  >SARIMA	Seasonal ARIMA model	~XXX.XX
-  >Prophet	Daily trend-based forecasting	~XXX.XX
-  >LSTM	Deep learning sequential model	~XXX.XX
+  >ARIMA	Traditional statistical model	~668.96
+  >SARIMA	Seasonal ARIMA model	~380.98
+  >Prophet	Daily trend-based forecasting	~671.23
+  >LSTM	Deep learning sequential model	~1508.19
 
 ## 📊  The final comparison plot displays:
 
